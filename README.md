@@ -28,21 +28,33 @@ rows and columns, reviewed the data types, and identified missing values.
 
 CLEANING SUMMARY 
 Issue Found Action Taken 
+
 Missing director (2,634 rows) was filled with "Unknown" because the data was too large to drop 
+
 Missing cast (825 rows) was filled with "Unknown" because the data was too large to drop 
+
 Missing country (831 rows) was filled with "Unknown" and was excluded from country-specific 
 analysis later 
+
 Missing date_added (10 rows) was removed because the data was too small to impact analysis 
+
 Missing rating (4 rows) was removed because it was too small to impact analysis 
+
 Missing duration (3 rows) was removed because it was too small to impact analysis 
+
 Duplicates none was found 
+
 Invalid rating values ("74 min", "84 min", "66 min") was resolved automatically because these 
 rows were among those dropped for missing date_added/duration 
+
 date_added was stored as text Converted to datetime 
+
 duration stored as mixed text ("90 min" / "2 Seasons") was splited into two numeric columns: 
 duration_minutes (Movies) and duration_seasons (TV Shows) 
+
 Column names was already in clean lowercase snake_case and was confirmed, no changes 
 needed 
+
 possible invalid years and duration outliers filtered released_year 1900-2025 and was flagged for 
 duration outliers 
 
