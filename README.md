@@ -56,31 +56,37 @@ Key Finding: The United States is the largest producer of Netflix content, follo
 the United Kingdom. 
 Key Insight: This shows Netflix’s strategy focuses on English-speaking markets and India, 
 which have the biggest subscriber bases. 
+
 Chart 2: Distribution of Movies vs TV Shows  
 Key Finding: Movies account for approximately 70% of the catalog, while TV Shows make up 
 30%. 
 Key Insight: Netflix prioritizes films to quickly grow its library, but still maintains a strong 
 collection of series to keep users engaged long-term. 
+
 Chart 3: Content Added to Netflix by Year  
 Key Finding: The number of titles added peaked between 2017 and 2019, followed by a sharp 
 decline in 2020. 
 Key Insight: The peak reflects Netflix’s rapid expansion. The 2020 drop was likely caused by 
 COVID-19 production delays. 
+
 Chart 4: Distribution of Release Years  
 Key Finding: Most of the content on Netflix was released after 2010. Very little content is from 
 before 1990. 
 Key Insight: Netflix focuses on modern and recent releases to appeal to current audience 
 preferences. 
+
 Chart 5: Distribution of Content Ratings 
 Key Finding: TV-MA and TV-14 are the 2 most common ratings. Kids ratings like TV-Y and G 
 are very rare. 
 Key Insight: Netflix’s catalog is heavily targeted toward Teen and Adult viewers, with limited 
 family/kids content. 
+
 Chart 6: Distribution of TV Show Seasons  
 Key Finding: The median TV show has only 1 season. Most shows have 1-2 seasons, with a few 
 outliers having 10+ seasons. 
 Key Insight: Netflix prefers limited series and short-run shows. Long-running shows are 
 uncommon on the platform. 
+
 Chart 7: Top 10 Most Common Genres  
 Key Finding: The top genres are International Movies, Dramas, and Comedies. Documentaries 
 and Action & Adventure also rank high. 
